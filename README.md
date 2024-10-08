@@ -1,2 +1,2 @@
 # TicTacToe Remote Multiplayer
- Tic Tac Toe with remote room joining and real-time updates
+ Tic Tac Toe Android app with remote room joining and real-time updates
